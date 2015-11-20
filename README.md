@@ -1,0 +1,2 @@
+# icecast_recorder_android
+icecast 实时音频收集端 android版，实现了用android收集实时录音压缩为mp3格式上传到icecast服务器
